@@ -6,10 +6,10 @@
 ## I'm a Student, Friend, Developer, and Developer!!
 
 - 🔭 I just launched my first website: [codenanshu][website]!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning JavaScript 😎
 - 👯 I’m looking to collaborate with other software creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I Love  JavaScript
+- ⚡ Fun fact: I Love JavaScript
 
 ### Spotify Playing 🎧
 
@@ -47,7 +47,7 @@
 
 ---
 
-➡️ [more blog posts...](https://codenanshu.in)
+➡️ [read blog posts...](https://codenanshu.in)
 
 ---
 
