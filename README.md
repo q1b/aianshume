@@ -41,11 +41,7 @@
 <br />
 <br />
 
----
-
-➡️ [read blog posts...](https://codenanshu.in)
-
----
+visit website 👉🏻 [codenanshu](https://codenanshu.in)
 
 
 [website]: https://codenanshu.in
