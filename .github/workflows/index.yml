@@ -13,7 +13,7 @@ jobs:
       - uses: aianshume/aianshume
         with:
           # Your GitHub token
-          token: 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
+          token: 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
 
           # Options
           user: aianshume
